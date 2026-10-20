@@ -1,0 +1,13 @@
+# Robot control and policy training/deployment
+lerobot
+torch
+
+# Visual servoing
+mediapipe
+opencv-python
+
+# Analysis scripts
+huggingface_hub
+safetensors
+numpy
+matplotlib

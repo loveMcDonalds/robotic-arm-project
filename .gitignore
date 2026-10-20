@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.safetensors
+*.task
+.ipynb_checkpoints/
+outputs/
